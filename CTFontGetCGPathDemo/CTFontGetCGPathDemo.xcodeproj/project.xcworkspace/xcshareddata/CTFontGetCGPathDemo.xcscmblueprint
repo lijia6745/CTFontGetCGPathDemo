@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C1C976AE20E042D837E93E362C9F3E9B3F1E4D1B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C1C976AE20E042D837E93E362C9F3E9B3F1E4D1B" : 0,
+    "4C9463F7A836D11A2786DBDACD643873C68A1E4C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6F55912A-39E0-48BE-BABA-66B83701CAED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C1C976AE20E042D837E93E362C9F3E9B3F1E4D1B" : "CTFontGetCGPathDemo\/",
+    "4C9463F7A836D11A2786DBDACD643873C68A1E4C" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CTFontGetCGPathDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CTFontGetCGPathDemo\/CTFontGetCGPathDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lijia6745\/DrawItalicizeFont.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C9463F7A836D11A2786DBDACD643873C68A1E4C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lijia6745\/CTFontGetCGPathDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C1C976AE20E042D837E93E362C9F3E9B3F1E4D1B"
+    }
+  ]
+}
